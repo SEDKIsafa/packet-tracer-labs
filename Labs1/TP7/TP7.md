@@ -7,7 +7,7 @@ Le TP introduit ensuite la configuration de sous-interfaces sur le routeur avec 
 
 Cette manipulation permet de comprendre le fonctionnement du modèle **router-on-a-stick**, le rôle des passerelles par VLAN et la communication entre réseaux logiques séparés.
 
-![Topologie du TP 7](./capture.png)
+![Topologie du TP 7](capture.png)
 
 **Compétences mobilisées :**
 - Création et configuration de VLANs
